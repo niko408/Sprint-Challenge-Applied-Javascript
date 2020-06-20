@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM is a programming interface for HTML. All the html elements and events are displayed in the form of objects that can be manipulated with javascript
+
 2. What is an event?
+
+An event is an action the user does onto the webpage
 
 3. What is an event listener?
 
+An event listener is a method that is invoked when a user does a certain event
+
 4. Why would we convert a NodeList into an Array?
 
+A nodelist cannot be manipulated with array elements
+
 5. What is a component?
+
+A component is a block of code that contains logic, parameters and functions that can be manipulated to be easily reused throughout the website 
 
 ### Git Set up
 
